@@ -1,0 +1,39 @@
+
+
+GITHUB URL: https://github.com/prince31joy/Java_FSD_Projects_Phase1_LockedME.git
+
+Product’s capabilities:
+
+	1. User gets the list of files in ascending orders
+	2. Option to add a user specified file to the application
+	3. Option to delete a user specified file from the application
+	4. Option to search a user specified file from the application
+	5. Navigation option to close the current execution context and return to the main context
+	6. Option to close the application
+
+
+
+No of Sprints Required: 2 (1 week Sprint)
+	Analysis
+	Implementation
+	Testing
+	Pushing the code to GITHUB
+
+Application Credentials:
+
+USERNAME:admin
+PASSWORD:demo@123
+
+Core Concepts Used:
+	User Input Handling
+	File Handling
+	Type Casting
+	Access Modifiers
+	Conditional Statements like "if-else" & "switch"
+	Exception Handling
+	Collections using Arrays
+	Creation of New project in GITHUB
+	Staging the File in GITHUB
+	Committing the File in GITHUB
+	Pushing the Files from Local Repository to Github
+	
