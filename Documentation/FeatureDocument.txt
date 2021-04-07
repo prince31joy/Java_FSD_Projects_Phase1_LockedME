@@ -1,6 +1,6 @@
 
 
-GITHUB URL: https://github.com/prince31joy/Java_FSD_Projects_Phase1_LockedME.git
+GITHUB URL: https://github.com/prince31joy/Java_FSD_Projects_Phase1_Project.git
 
 Product’s capabilities:
 
